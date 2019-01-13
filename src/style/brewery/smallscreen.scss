@@ -1,0 +1,19 @@
+@media screen and (max-width: 760px) {
+
+    .brewer-back-button {
+      grid-column: 1 / span 5;
+    }
+  
+    .brewer-info {
+      grid-row: 2;
+    }
+  
+    .brewer-img {
+      grid-row: 3;
+    }
+  
+    .brewer-description {
+      grid-row: 4;
+    }
+  
+  }

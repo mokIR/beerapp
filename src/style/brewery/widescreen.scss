@@ -1,0 +1,19 @@
+.brewer-back-button {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  
+  .brewer-info {
+    grid-column: 1 / span 5;
+    grid-row: 1;
+  }
+  
+  .brewer-img {
+    grid-column: 1 / span 5;
+    grid-row: 2;
+  }
+  
+  .brewer-description {
+    grid-column: 1 / span 5;
+    grid-row: 3;
+  }
