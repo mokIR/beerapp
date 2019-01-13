@@ -1,4 +1,4 @@
-# my-project
+# beer-app
 
 ## Project setup
 ```
